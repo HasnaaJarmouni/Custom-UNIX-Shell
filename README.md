@@ -27,7 +27,7 @@ src/
 ├── executor.c
 ├── prompt.c
 ├── builtins.c
-
+├── utils.c
 include/
 └── shell.h
 
@@ -38,11 +38,11 @@ make
 ./hasnaashell
 
 ## Exemples de commandes
-ls
-pwd
-whoami
-date
-echo hello
+ls <br>
+pwd <br>
+whoami <br>
+date <br>
+echo hello <br>
 
 ## Technologies utilisées
 - Langage C
