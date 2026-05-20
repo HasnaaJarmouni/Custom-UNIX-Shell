@@ -21,14 +21,14 @@ Le programme peut lire et exécuter des commandes Linux directement depuis le te
 
 ## Structure du projet
 
-src/
-├── main.c
-├── parser.c
-├── executor.c
-├── prompt.c
-├── builtins.c
+src/ <br>
+├── main.c <br>
+├── parser.c <br>
+├── executor.c <br>
+├── prompt.c <br>
+├── builtins.c <br>
 ├── utils.c <br>
-include/
+include/ <br>
 └── shell.h
 
 ## Compilation
